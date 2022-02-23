@@ -1,0 +1,28 @@
+{
+    "map": 
+     {
+        "dimensions": 
+        {
+            "width": 2,
+            "height": 2
+        }  
+     } 
+    "tiles": [
+        {
+            "type": "grass",
+            "blocksPlayer": false
+        },
+        {
+            "type": "grass",
+            "blocksPlayer": true
+        },
+        {
+            "type": "grass",
+            "blocksPlayer": false
+        },
+        {
+            "type": "grass",
+            "blocksPlayer": false
+        }
+    ]
+}
