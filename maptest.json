@@ -9,19 +9,19 @@
      },
     "tiles": [
         {
-            "type": "grass",
+            "type": "Terrain_Grass",
             "blocksPlayer": false
         },
         {
-            "type": "grass",
+            "type": "Terrain_Grass",
             "blocksPlayer": true
         },
         {
-            "type": "grass",
+            "type": "Terrain_Grass",
             "blocksPlayer": false
         },
         {
-            "type": "grass",
+            "type": "Terrain_Grass",
             "blocksPlayer": false
         }
     ]
