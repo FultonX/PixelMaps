@@ -7,7 +7,7 @@
     "tiles": [
         {
             "type": "Terrain_Grass",
-            "frame": 1,
+            "frame": 0,
             "blocksPlayer": false
         },
         {
