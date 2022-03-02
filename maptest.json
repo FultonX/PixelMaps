@@ -1,29 +1,30 @@
 {
-    "dimensions": 
+    "dimensions":
     {
-        "width": 2,
-        "height": 2
+        "width":2,
+        "height":2
     },
-    "tiles": [
+    "tiles":
+    [
         {
-            "type": "Terrain_Grass",
-            "frame": 0,
-            "blocksPlayer": false
+            "type":"Terrain_Grass",
+            "frame":3,
+            "blocksPlayer":false
         },
         {
-            "type": "Terrain_Grass",
-            "frame": 1,
-            "blocksPlayer": true
+            "type":"Terrain_Grass",
+            "frame":2,
+            "blocksPlayer":false
         },
         {
-            "type": "Terrain_Grass",
-            "frame": 2,
-            "blocksPlayer": false
+            "type":"Terrain_Grass",
+            "frame":3,
+            "blocksPlayer":false
         },
         {
-            "type": "Terrain_Grass",
-            "frame": 3,
-            "blocksPlayer": false
+            "type":"Terrain_Grass",
+            "frame":1,
+            "blocksPlayer":false
         }
     ]
 }
